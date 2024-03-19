@@ -1,4 +1,5 @@
 Hello there! 👋
+
 Welcome to my GitHub profile! I'm Rickard Ekstedt, a passionate Java developer with a love for coding and a healthy dose of creativity.
 If you're looking for an energetic and dedicated developer who not only delivers code but also laughter and positivity, then you've come to the right place! 
 Take a look below to learn a bit more about me and what I have to offer.
